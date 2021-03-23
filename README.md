@@ -1,6 +1,6 @@
 # This is my portfolio site based on blog.
-https://jihyeleee.com/
-![image](https://www.jihyeleee.com/img/share-img.jpg)
-It's forked from [chesterhow/tale])https://github.com/chesterhow/tale).
+https://newport.allpgs.ga
 
-© Jihye Leee. 2021
+It's forked from [iamleejihye/iamleejihye.github.io])https://github.com/iamleejihye/iamleejihye.github.io).
+
+© All PGS. 2021
