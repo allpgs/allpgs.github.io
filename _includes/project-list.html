@@ -1,4 +1,20 @@
 <li class="workplace transition">
+    {% for fourth in site.data.experience.fourth-place %}
+    <p class="workplace-name">
+        {{ fourth.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ fourth.role }}
+        </p>
+        <p class="work-sub-info">
+            {{ fourth.date }}
+        </p>
+    </div>
+    {% endfor %}
+</li>
+
+<li class="workplace transition">
     {% for third in site.data.experience.third-place %}
     <p class="workplace-name">
         {{ third.name }}
