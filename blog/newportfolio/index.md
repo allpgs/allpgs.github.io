@@ -7,7 +7,7 @@ blog: true
 text: true
 author: "All PGS"
 post-header: true
-header-img: "img/header.jpg"
+header-img: "../img/about.jpg"
 order: 1
 ---
 
