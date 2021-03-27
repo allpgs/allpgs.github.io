@@ -9,7 +9,7 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/header.jpg"
+header-img: "img/faunatest.jpg"
 main-img: "img/faunatest.jpg"
 role-title: "웹 퍼블리셔"
 role-specific: ""
